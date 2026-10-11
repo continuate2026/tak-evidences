@@ -1,0 +1,418 @@
+CloudWatch
+Log management
+/doi-tak/dev/wowza/application
+server_access/i-0729961513ce4a72a/ip-10-0-21-136.us-west-2.compute.internal
+
+
+
+Timestamp
+	
+Message
+
+There are older events to load. 
+Load more.
+2026-10-07T05:21:29.591Z
+#Software: 4.10.0+14 build20260507202104
+2026-10-07T05:21:29.591Z
+#Date: 2026-10-07
+2026-10-07T05:21:29.591Z
+#Fields: date time tz x-event x-category x-severity x-status x-ctx x-comment x-vhost x-app x-appinst x-duration s-ip s-port s-uri c-ip c-proto c-referrer c-user-agent c-client-id cs-bytes sc-bytes x-stream-id x-spos cs-stream-bytes sc-stream-bytes x-sname x-sname-query x-file-name x-file-ext x-file-size x-file-length x-suri x-suri-stem x-suri-query cs-uri-stem cs-uri-query
+2026-10-07T05:21:34.592Z
+2026-10-07 05:21:22 UTC disconnect session INFO 200 1854756081 - _defaultVHost_ - - 4.92 [any] 554 - 127.0.0.1 rtmp - unknown 1854756081 25 0 - - - - - - - - - - - - - - -
+2026-10-07T05:25:56.591Z
+2026-10-07 05:25:52 UTC disconnect session INFO 200 1339372154 - _defaultVHost_ - - 4.912 [any] 554 - 127.0.0.1 rtmp - unknown 1339372154 25 0 - - - - - - - - - - - - - - -
+2026-10-07T05:25:56.595Z
+2026-10-07 05:25:52 UTC disconnect session INFO 200 1339372154 - _defaultVHost_ - - 4.912 [any] 554 - 127.0.0.1 rtmp - unknown 1339372154 25 0 - - - - - - - - - - - - - - -
+2026-10-07T12:07:57.591Z
+2026-10-07 12:07:53 UTC disconnect session INFO 200 179543654 - _defaultVHost_ - - 11.345 [any] 554 - 127.0.0.1 rtmp - unknown 179543654 261 0 - - - - - - - - - - - - - - -
+2026-10-07T12:07:57.595Z
+2026-10-07 12:07:53 UTC disconnect session INFO 200 179543654 - _defaultVHost_ - - 11.345 [any] 554 - 127.0.0.1 rtmp - unknown 179543654 261 0 - - - - - - - - - - - - - - -
+2026-10-07T13:40:56.592Z
+2026-10-07 13:40:51 UTC disconnect session INFO 200 1228583913 - _defaultVHost_ - - 9.965 [any] 554 - 127.0.0.1 rtmp - unknown 1228583913 261 0 - - - - - - - - - - - - - - -
+2026-10-07T13:40:56.595Z
+2026-10-07 13:40:51 UTC disconnect session INFO 200 1228583913 - _defaultVHost_ - - 9.965 [any] 554 - 127.0.0.1 rtmp - unknown 1228583913 261 0 - - - - - - - - - - - - - - -
+2026-10-07T16:44:42.591Z
+2026-10-07 16:44:37 UTC disconnect session INFO 200 1315417853 - _defaultVHost_ - - 3.001 [any] 554 - 127.0.0.1 rtmp - unknown 1315417853 243 0 - - - - - - - - - - - - - - -
+2026-10-07T16:44:42.594Z
+2026-10-07 16:44:37 UTC disconnect session INFO 200 1315417853 - _defaultVHost_ - - 3.001 [any] 554 - 127.0.0.1 rtmp - unknown 1315417853 243 0 - - - - - - - - - - - - - - -
+2026-10-07T23:06:01.591Z
+2026-10-07 23:05:56 UTC disconnect session INFO 200 907080106 - _defaultVHost_ - - 1.501 [any] 1935 - 127.0.0.1 rtmp - unknown 907080106 11 0 - - - - - - - - - - - - - - -
+2026-10-07T23:06:01.594Z
+2026-10-07 23:05:56 UTC disconnect session INFO 200 907080106 - _defaultVHost_ - - 1.501 [any] 1935 - 127.0.0.1 rtmp - unknown 907080106 11 0 - - - - - - - - - - - - - - -
+2026-10-07T23:14:56.591Z
+2026-10-07 23:14:52 UTC disconnect session INFO 200 741884198 - _defaultVHost_ - - 1.5 [any] 1935 - 127.0.0.1 rtmp - unknown 741884198 11 0 - - - - - - - - - - - - - - -
+2026-10-07T23:14:56.594Z
+2026-10-07 23:14:52 UTC disconnect session INFO 200 741884198 - _defaultVHost_ - - 1.5 [any] 1935 - 127.0.0.1 rtmp - unknown 741884198 11 0 - - - - - - - - - - - - - - -
+2026-10-08T02:05:29.595Z
+#Version: 1.0
+2026-10-08T02:05:29.595Z
+#Start-Date: 2026-10-08 02:05:28 UTC
+2026-10-08T02:05:29.595Z
+#Software: 4.10.0+14 build20260507202104
+2026-10-08T02:05:29.595Z
+#Date: 2026-10-08
+2026-10-08T02:05:29.595Z
+#Fields: date time tz x-event x-category x-severity x-status x-ctx x-comment x-vhost x-app x-appinst x-duration s-ip s-port s-uri c-ip c-proto c-referrer c-user-agent c-client-id cs-bytes sc-bytes x-stream-id x-spos cs-stream-bytes sc-stream-bytes x-sname x-sname-query x-file-name x-file-ext x-file-size x-file-length x-suri x-suri-stem x-suri-query cs-uri-stem cs-uri-query
+2026-10-08T02:05:31.591Z
+#Version: 1.0
+2026-10-08T02:05:31.591Z
+#Start-Date: 2026-10-08 02:05:28 UTC
+2026-10-08T02:05:31.591Z
+#Software: 4.10.0+14 build20260507202104
+2026-10-08T02:05:31.591Z
+#Date: 2026-10-08
+2026-10-08T02:05:31.591Z
+#Fields: date time tz x-event x-category x-severity x-status x-ctx x-comment x-vhost x-app x-appinst x-duration s-ip s-port s-uri c-ip c-proto c-referrer c-user-agent c-client-id cs-bytes sc-bytes x-stream-id x-spos cs-stream-bytes sc-stream-bytes x-sname x-sname-query x-file-name x-file-ext x-file-size x-file-length x-suri x-suri-stem x-suri-query cs-uri-stem cs-uri-query
+2026-10-08T02:05:34.596Z
+2026-10-08 02:05:28 UTC disconnect session INFO 200 684456838 - _defaultVHost_ - - 4.92 [any] 554 - 127.0.0.1 rtmp - unknown 684456838 25 0 - - - - - - - - - - - - - - -
+2026-10-08T02:05:36.591Z
+2026-10-08 02:05:28 UTC disconnect session INFO 200 684456838 - _defaultVHost_ - - 4.92 [any] 554 - 127.0.0.1 rtmp - unknown 684456838 25 0 - - - - - - - - - - - - - - -
+2026-10-08T02:16:57.591Z
+2026-10-08 02:16:52 UTC disconnect session INFO 200 262675020 - _defaultVHost_ - - 4.919 [any] 554 - 127.0.0.1 rtmp - unknown 262675020 25 0 - - - - - - - - - - - - - - -
+2026-10-08T02:16:57.595Z
+2026-10-08 02:16:52 UTC disconnect session INFO 200 262675020 - _defaultVHost_ - - 4.919 [any] 554 - 127.0.0.1 rtmp - unknown 262675020 25 0 - - - - - - - - - - - - - - -
+2026-10-08T02:54:46.591Z
+2026-10-08 02:54:41 UTC disconnect session INFO 200 2120269915 - _defaultVHost_ - - 5.999 [any] 1935 - 127.0.0.1 rtmp - unknown 2120269915 271 0 - - - - - - - - - - - - - - -
+2026-10-08T02:54:46.595Z
+2026-10-08 02:54:41 UTC disconnect session INFO 200 2120269915 - _defaultVHost_ - - 5.999 [any] 1935 - 127.0.0.1 rtmp - unknown 2120269915 271 0 - - - - - - - - - - - - - - -
+2026-10-08T09:50:25.591Z
+2026-10-08 09:50:20 UTC disconnect session INFO 200 669848262 - _defaultVHost_ - - 17.997 [any] 554 - 127.0.0.1 rtmp - unknown 669848262 257 0 - - - - - - - - - - - - - - -
+2026-10-08T09:50:25.596Z
+2026-10-08 09:50:20 UTC disconnect session INFO 200 669848262 - _defaultVHost_ - - 17.997 [any] 554 - 127.0.0.1 rtmp - unknown 669848262 257 0 - - - - - - - - - - - - - - -
+2026-10-08T11:52:59.592Z
+2026-10-08 11:52:54 UTC disconnect session INFO 200 635715020 - _defaultVHost_ - - 11.181 [any] 554 - 127.0.0.1 rtmp - unknown 635715020 261 0 - - - - - - - - - - - - - - -
+2026-10-08T11:52:59.595Z
+2026-10-08 11:52:54 UTC disconnect session INFO 200 635715020 - _defaultVHost_ - - 11.181 [any] 554 - 127.0.0.1 rtmp - unknown 635715020 261 0 - - - - - - - - - - - - - - -
+2026-10-08T18:16:13.591Z
+2026-10-08 18:16:08 UTC disconnect session INFO 200 1883758335 - _defaultVHost_ - - 25.0 [any] 1935 - 127.0.0.1 rtmp - unknown 1883758335 12 18 - - - - - - - - - - - - - - -
+2026-10-08T18:16:13.595Z
+2026-10-08 18:16:08 UTC disconnect session INFO 200 1883758335 - _defaultVHost_ - - 25.0 [any] 1935 - 127.0.0.1 rtmp - unknown 1883758335 12 18 - - - - - - - - - - - - - - -
+2026-10-08T23:02:01.594Z
+2026-10-08 23:01:57 UTC disconnect session INFO 200 197716704 - _defaultVHost_ - - 4.92 [any] 554 - 127.0.0.1 rtmp - unknown 197716704 25 0 - - - - - - - - - - - - - - -
+2026-10-08T23:02:01.595Z
+2026-10-08 23:01:57 UTC disconnect session INFO 200 197716704 - _defaultVHost_ - - 4.92 [any] 554 - 127.0.0.1 rtmp - unknown 197716704 25 0 - - - - - - - - - - - - - - -
+2026-10-08T23:11:31.592Z
+2026-10-08 23:11:27 UTC disconnect session INFO 200 775868624 - _defaultVHost_ - - 4.951 [any] 554 - 127.0.0.1 rtmp - unknown 775868624 25 0 - - - - - - - - - - - - - - -
+2026-10-08T23:11:31.595Z
+2026-10-08 23:11:27 UTC disconnect session INFO 200 775868624 - _defaultVHost_ - - 4.951 [any] 554 - 127.0.0.1 rtmp - unknown 775868624 25 0 - - - - - - - - - - - - - - -
+2026-10-09T01:41:06.600Z
+#Version: 1.0
+2026-10-09T01:41:06.600Z
+#Start-Date: 2026-10-09 01:41:06 UTC
+2026-10-09T01:41:06.600Z
+#Software: 4.10.0+14 build20260507202104
+2026-10-09T01:41:06.600Z
+#Date: 2026-10-09
+2026-10-09T01:41:06.600Z
+#Fields: date time tz x-event x-category x-severity x-status x-ctx x-comment x-vhost x-app x-appinst x-duration s-ip s-port s-uri c-ip c-proto c-referrer c-user-agent c-client-id cs-bytes sc-bytes x-stream-id x-spos cs-stream-bytes sc-stream-bytes x-sname x-sname-query x-file-name x-file-ext x-file-size x-file-length x-suri x-suri-stem x-suri-query cs-uri-stem cs-uri-query
+2026-10-09T01:41:11.601Z
+2026-10-09 01:41:06 UTC disconnect session INFO 200 1816119584 - _defaultVHost_ - - 25.001 [any] 1935 - 127.0.0.1 rtmp - unknown 1816119584 12 18 - - - - - - - - - - - - - - -
+2026-10-09T01:41:14.591Z
+#Version: 1.0
+2026-10-09T01:41:14.591Z
+#Start-Date: 2026-10-09 01:41:06 UTC
+2026-10-09T01:41:14.591Z
+#Software: 4.10.0+14 build20260507202104
+2026-10-09T01:41:14.591Z
+#Date: 2026-10-09
+2026-10-09T01:41:14.591Z
+#Fields: date time tz x-event x-category x-severity x-status x-ctx x-comment x-vhost x-app x-appinst x-duration s-ip s-port s-uri c-ip c-proto c-referrer c-user-agent c-client-id cs-bytes sc-bytes x-stream-id x-spos cs-stream-bytes sc-stream-bytes x-sname x-sname-query x-file-name x-file-ext x-file-size x-file-length x-suri x-suri-stem x-suri-query cs-uri-stem cs-uri-query
+2026-10-09T01:41:19.629Z
+2026-10-09 01:41:06 UTC disconnect session INFO 200 1816119584 - _defaultVHost_ - - 25.001 [any] 1935 - 127.0.0.1 rtmp - unknown 1816119584 12 18 - - - - - - - - - - - - - - -
+2026-10-09T11:54:53.592Z
+2026-10-09 11:54:48 UTC disconnect session INFO 200 433254488 - _defaultVHost_ - - 11.815 [any] 554 - 127.0.0.1 rtmp - unknown 433254488 261 0 - - - - - - - - - - - - - - -
+2026-10-09T11:54:53.600Z
+2026-10-09 11:54:48 UTC disconnect session INFO 200 433254488 - _defaultVHost_ - - 11.815 [any] 554 - 127.0.0.1 rtmp - unknown 433254488 261 0 - - - - - - - - - - - - - - -
+2026-10-09T11:55:16.591Z
+2026-10-09 11:55:11 UTC disconnect session INFO 200 371809605 - _defaultVHost_ - - 11.267 [any] 554 - 127.0.0.1 rtmp - unknown 371809605 261 0 - - - - - - - - - - - - - - -
+2026-10-09T11:55:16.601Z
+2026-10-09 11:55:11 UTC disconnect session INFO 200 371809605 - _defaultVHost_ - - 11.267 [any] 554 - 127.0.0.1 rtmp - unknown 371809605 261 0 - - - - - - - - - - - - - - -
+2026-10-09T12:40:10.369Z
+2026-10-09 12:40:09 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415153.641 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:10.369Z
+2026-10-09 12:40:09 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415153.641 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:10.870Z
+2026-10-09 12:40:10 UTC comment server WARN 200 - Application folder ([install-location]/applications/h264) is missing - - - 415154.294 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:10.870Z
+2026-10-09 12:40:10 UTC comment server WARN 200 - Application folder ([install-location]/applications/h264) is missing - - - 415154.294 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:11.621Z
+2026-10-09 12:40:10 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415154.941 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:11.623Z
+2026-10-09 12:40:10 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415154.941 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:12.122Z
+2026-10-09 12:40:11 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415155.588 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:12.123Z
+2026-10-09 12:40:11 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415155.588 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:12.875Z
+2026-10-09 12:40:12 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415156.24 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:12.875Z
+2026-10-09 12:40:12 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415156.24 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:13.377Z
+2026-10-09 12:40:12 UTC comment server WARN 200 - Application folder ([install-location]/applications/cam) is missing - - - 415156.885 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:13.377Z
+2026-10-09 12:40:12 UTC comment server WARN 200 - Application folder ([install-location]/applications/cam) is missing - - - 415156.885 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:14.128Z
+2026-10-09 12:40:13 UTC comment server WARN 200 - Application folder ([install-location]/applications/snl) is missing - - - 415157.533 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:14.128Z
+2026-10-09 12:40:13 UTC comment server WARN 200 - Application folder ([install-location]/applications/snl) is missing - - - 415157.533 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:14.879Z
+2026-10-09 12:40:13 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415158.173 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:14.879Z
+2026-10-09 12:40:13 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415158.173 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:15.882Z
+2026-10-09 12:40:14 UTC comment server WARN 200 - Application folder ([install-location]/applications/media) is missing - - - 415158.824 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:15.882Z
+2026-10-09 12:40:15 UTC comment server INFO 200 - MediaCasterStreamValidator.init[live/_definst_]: Started - - - 415159.851 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:15.882Z
+2026-10-09 12:40:15 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: AllowedEncoders: securityPublishValidEncoders:Wirecast/|FME/|FMLE/|Wowza GoCoder*|Lavf/|UA Teradek/|KulaByte/|HaivisionKB/|VidBlaster/|XSplit/|PESA|makitoX/|Elemental Live* - - - 415159.924 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:15.882Z
+2026-10-09 12:40:15 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: block duplicate stream names : false - - - 415159.926 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:15.882Z
+2026-10-09 12:40:15 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: RTMP Authorization: password file:/usr/local/WowzaStreamingEngine/conf/publish.password - - - 415159.927 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:15.882Z
+2026-10-09 12:40:15 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Play: SecureConnection: securityPlayRequireSecureConnection:false - - - 415159.927 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:15.882Z
+2026-10-09 12:40:14 UTC comment server WARN 200 - Application folder ([install-location]/applications/media) is missing - - - 415158.824 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:15.882Z
+2026-10-09 12:40:15 UTC comment server INFO 200 - MediaCasterStreamValidator.init[live/_definst_]: Started - - - 415159.851 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:15.882Z
+2026-10-09 12:40:15 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: AllowedEncoders: securityPublishValidEncoders:Wirecast/|FME/|FMLE/|Wowza GoCoder*|Lavf/|UA Teradek/|KulaByte/|HaivisionKB/|VidBlaster/|XSplit/|PESA|makitoX/|Elemental Live* - - - 415159.924 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:15.882Z
+2026-10-09 12:40:15 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: block duplicate stream names : false - - - 415159.926 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:15.882Z
+2026-10-09 12:40:15 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: RTMP Authorization: password file:/usr/local/WowzaStreamingEngine/conf/publish.password - - - 415159.927 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:15.882Z
+2026-10-09 12:40:15 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Play: SecureConnection: securityPlayRequireSecureConnection:false - - - 415159.927 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:16.132Z
+2026-10-09 12:40:15 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Play: securitySecureTokenVersion property is missing, using SecureToken Version 1, play security enabled for RTMP only - - - 415159.927 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:16.132Z
+2026-10-09 12:40:15 UTC app-start application INFO 200 _definst_ live/_definst_ _defaultVHost_ live _definst_ 415160.096 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:16.132Z
+2026-10-09 12:40:15 UTC connect rtsp INFO 200 981303449 - _defaultVHost_ live _definst_ 415160.121 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 162.142.125.7 rtsp - LibVLC/3.0.20 981303449 0 0 - - - - - - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-09T12:40:16.132Z
+2026-10-09 12:40:16 UTC create stream INFO 200 - RTPStream _defaultVHost_ live _definst_ 0.089 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 162.142.125.7 rtsp - LibVLC/3.0.20 981303449 0 0 1 0 0 0 ch00_0 - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-09T12:40:16.132Z
+2026-10-09 12:40:16 UTC unpublish stream INFO 200 - - _defaultVHost_ live _definst_ 0.097 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 162.142.125.7 rtsp - LibVLC/3.0.20 981303449 0 0 1 0 0 0 ch00_0 - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-09T12:40:16.132Z
+2026-10-09 12:40:16 UTC destroy stream INFO 200 - - _defaultVHost_ live _definst_ 0.105 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 162.142.125.7 rtsp - LibVLC/3.0.20 981303449 0 0 1 0 0 0 ch00_0 - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-09T12:40:16.132Z
+2026-10-09 12:40:15 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Play: securitySecureTokenVersion property is missing, using SecureToken Version 1, play security enabled for RTMP only - - - 415159.927 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:16.132Z
+2026-10-09 12:40:15 UTC app-start application INFO 200 _definst_ live/_definst_ _defaultVHost_ live _definst_ 415160.096 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:16.132Z
+2026-10-09 12:40:15 UTC connect rtsp INFO 200 981303449 - _defaultVHost_ live _definst_ 415160.121 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 162.142.125.7 rtsp - LibVLC/3.0.20 981303449 0 0 - - - - - - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-09T12:40:16.132Z
+2026-10-09 12:40:16 UTC create stream INFO 200 - RTPStream _defaultVHost_ live _definst_ 0.089 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 162.142.125.7 rtsp - LibVLC/3.0.20 981303449 0 0 1 0 0 0 ch00_0 - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-09T12:40:16.132Z
+2026-10-09 12:40:16 UTC unpublish stream INFO 200 - - _defaultVHost_ live _definst_ 0.097 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 162.142.125.7 rtsp - LibVLC/3.0.20 981303449 0 0 1 0 0 0 ch00_0 - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-09T12:40:16.132Z
+2026-10-09 12:40:16 UTC destroy stream INFO 200 - - _defaultVHost_ live _definst_ 0.105 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 162.142.125.7 rtsp - LibVLC/3.0.20 981303449 0 0 1 0 0 0 ch00_0 - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-09T12:40:16.884Z
+2026-10-09 12:40:16 UTC disconnect rtsp INFO 200 981303449 - _defaultVHost_ live _definst_ 415160.266 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 162.142.125.7 rtsp - LibVLC/3.0.20 981303449 0 0 - - - - - - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-09T12:40:16.884Z
+2026-10-09 12:40:16 UTC disconnect rtsp INFO 200 981303449 - _defaultVHost_ live _definst_ 415160.266 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 162.142.125.7 rtsp - LibVLC/3.0.20 981303449 0 0 - - - - - - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-09T12:40:17.385Z
+2026-10-09 12:40:16 UTC comment server WARN 200 - Application folder ([install-location]/applications/axis-media) is missing - - - 415160.907 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:17.385Z
+2026-10-09 12:40:16 UTC comment server WARN 200 - Application folder ([install-location]/applications/axis-media) is missing - - - 415160.907 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:18.137Z
+2026-10-09 12:40:17 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415161.553 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:18.137Z
+2026-10-09 12:40:17 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415161.553 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:18.888Z
+2026-10-09 12:40:18 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415162.195 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:18.888Z
+2026-10-09 12:40:18 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415162.195 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:19.389Z
+2026-10-09 12:40:18 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415162.845 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:19.389Z
+2026-10-09 12:40:18 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415162.845 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:20.141Z
+2026-10-09 12:40:19 UTC comment server WARN 200 - Application folder ([install-location]/applications/Streaming) is missing - - - 415163.489 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:20.141Z
+2026-10-09 12:40:19 UTC comment server WARN 200 - Application folder ([install-location]/applications/Streaming) is missing - - - 415163.489 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:24.591Z
+2026-10-09 12:40:19 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415164.132 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:40:24.601Z
+2026-10-09 12:40:19 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 415164.132 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:41:20.592Z
+2026-10-09 12:41:16 UTC app-stop application INFO 200 _definst_ live/_definst_ _defaultVHost_ live _definst_ 415220.682 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T12:41:20.601Z
+2026-10-09 12:41:16 UTC app-stop application INFO 200 _definst_ live/_definst_ _defaultVHost_ live _definst_ 415220.682 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-09T16:22:36.591Z
+2026-10-09 16:22:32 UTC disconnect session INFO 200 1946726220 - _defaultVHost_ - - 9.467 [any] 1935 - 127.0.0.1 rtmp - unknown 1946726220 615 0 - - - - - - - - - - - - - - -
+2026-10-09T16:22:36.601Z
+2026-10-09 16:22:32 UTC disconnect session INFO 200 1946726220 - _defaultVHost_ - - 9.467 [any] 1935 - 127.0.0.1 rtmp - unknown 1946726220 615 0 - - - - - - - - - - - - - - -
+2026-10-09T17:12:43.451Z
+2026-10-09 17:12:40 UTC disconnect session INFO 200 600280661 - _defaultVHost_ - - 0.157 [any] 554 - 127.0.0.1 rtmp - unknown 600280661 1765 3073 - - - - - - - - - - - - - - -
+2026-10-09T17:12:43.476Z
+2026-10-09 17:12:40 UTC disconnect session INFO 200 600280661 - _defaultVHost_ - - 0.157 [any] 554 - 127.0.0.1 rtmp - unknown 600280661 1765 3073 - - - - - - - - - - - - - - -
+2026-10-09T17:12:47.592Z
+2026-10-09 17:12:43 UTC disconnect session INFO 200 361038155 - _defaultVHost_ - - 3.0 [any] 554 - 127.0.0.1 rtmp - unknown 361038155 1483 0 - - - - - - - - - - - - - - -
+2026-10-09T17:12:47.600Z
+2026-10-09 17:12:43 UTC disconnect session INFO 200 361038155 - _defaultVHost_ - - 3.0 [any] 554 - 127.0.0.1 rtmp - unknown 361038155 1483 0 - - - - - - - - - - - - - - -
+2026-10-09T17:32:57.448Z
+2026-10-09 17:32:54 UTC disconnect session INFO 200 1294339762 - _defaultVHost_ - - 0.154 [any] 554 - 127.0.0.1 rtmp - unknown 1294339762 1701 3073 - - - - - - - - - - - - - - -
+2026-10-09T17:32:57.507Z
+2026-10-09 17:32:54 UTC disconnect session INFO 200 1294339762 - _defaultVHost_ - - 0.154 [any] 554 - 127.0.0.1 rtmp - unknown 1294339762 1701 3073 - - - - - - - - - - - - - - -
+2026-10-09T17:33:01.592Z
+2026-10-09 17:32:57 UTC disconnect session INFO 200 1367872775 - _defaultVHost_ - - 3.001 [any] 554 - 127.0.0.1 rtmp - unknown 1367872775 1483 0 - - - - - - - - - - - - - - -
+2026-10-09T17:33:01.601Z
+2026-10-09 17:32:57 UTC disconnect session INFO 200 1367872775 - _defaultVHost_ - - 3.001 [any] 554 - 127.0.0.1 rtmp - unknown 1367872775 1483 0 - - - - - - - - - - - - - - -
+2026-10-09T19:55:07.592Z
+2026-10-09 19:55:02 UTC disconnect session INFO 200 1321410419 - _defaultVHost_ - - 0.058 [any] 554 - 127.0.0.1 rtmp - unknown 1321410419 25 0 - - - - - - - - - - - - - - -
+2026-10-09T19:55:07.601Z
+2026-10-09 19:55:02 UTC disconnect session INFO 200 1321410419 - _defaultVHost_ - - 0.058 [any] 554 - 127.0.0.1 rtmp - unknown 1321410419 25 0 - - - - - - - - - - - - - - -
+2026-10-09T19:58:53.592Z
+2026-10-09 19:58:48 UTC disconnect session INFO 200 982958591 - _defaultVHost_ - - 0.045 [any] 554 - 127.0.0.1 rtmp - unknown 982958591 25 0 - - - - - - - - - - - - - - -
+2026-10-09T19:58:53.600Z
+2026-10-09 19:58:48 UTC disconnect session INFO 200 982958591 - _defaultVHost_ - - 0.045 [any] 554 - 127.0.0.1 rtmp - unknown 982958591 25 0 - - - - - - - - - - - - - - -
+2026-10-10T12:23:52.603Z
+#Version: 1.0
+2026-10-10T12:23:52.603Z
+#Start-Date: 2026-10-10 12:23:51 UTC
+2026-10-10T12:23:52.603Z
+#Software: 4.10.0+14 build20260507202104
+2026-10-10T12:23:52.603Z
+#Date: 2026-10-10
+2026-10-10T12:23:52.603Z
+#Fields: date time tz x-event x-category x-severity x-status x-ctx x-comment x-vhost x-app x-appinst x-duration s-ip s-port s-uri c-ip c-proto c-referrer c-user-agent c-client-id cs-bytes sc-bytes x-stream-id x-spos cs-stream-bytes sc-stream-bytes x-sname x-sname-query x-file-name x-file-ext x-file-size x-file-length x-suri x-suri-stem x-suri-query cs-uri-stem cs-uri-query
+2026-10-10T12:23:57.661Z
+2026-10-10 12:23:51 UTC disconnect session INFO 200 42546039 - _defaultVHost_ - - 10.009 [any] 554 - 127.0.0.1 rtmp - unknown 42546039 261 0 - - - - - - - - - - - - - - -
+2026-10-10T12:23:59.591Z
+#Version: 1.0
+2026-10-10T12:23:59.591Z
+#Start-Date: 2026-10-10 12:23:51 UTC
+2026-10-10T12:23:59.591Z
+#Software: 4.10.0+14 build20260507202104
+2026-10-10T12:23:59.591Z
+#Date: 2026-10-10
+2026-10-10T12:23:59.591Z
+#Fields: date time tz x-event x-category x-severity x-status x-ctx x-comment x-vhost x-app x-appinst x-duration s-ip s-port s-uri c-ip c-proto c-referrer c-user-agent c-client-id cs-bytes sc-bytes x-stream-id x-spos cs-stream-bytes sc-stream-bytes x-sname x-sname-query x-file-name x-file-ext x-file-size x-file-length x-suri x-suri-stem x-suri-query cs-uri-stem cs-uri-query
+2026-10-10T12:24:04.592Z
+2026-10-10 12:23:51 UTC disconnect session INFO 200 42546039 - _defaultVHost_ - - 10.009 [any] 554 - 127.0.0.1 rtmp - unknown 42546039 261 0 - - - - - - - - - - - - - - -
+2026-10-10T13:35:40.640Z
+2026-10-10 13:35:39 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504883.964 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:40.679Z
+2026-10-10 13:35:39 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504883.964 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:41.141Z
+2026-10-10 13:35:40 UTC comment server WARN 200 - Application folder ([install-location]/applications/h264) is missing - - - 504884.639 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:41.180Z
+2026-10-10 13:35:40 UTC comment server WARN 200 - Application folder ([install-location]/applications/h264) is missing - - - 504884.639 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:41.892Z
+2026-10-10 13:35:41 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504885.306 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:41.932Z
+2026-10-10 13:35:41 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504885.306 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:42.644Z
+2026-10-10 13:35:41 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504885.977 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:42.683Z
+2026-10-10 13:35:41 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504885.977 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:43.145Z
+2026-10-10 13:35:42 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504886.642 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:43.185Z
+2026-10-10 13:35:42 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504886.642 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:43.897Z
+2026-10-10 13:35:43 UTC comment server WARN 200 - Application folder ([install-location]/applications/cam) is missing - - - 504887.308 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:43.936Z
+2026-10-10 13:35:43 UTC comment server WARN 200 - Application folder ([install-location]/applications/cam) is missing - - - 504887.308 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:44.649Z
+2026-10-10 13:35:43 UTC comment server WARN 200 - Application folder ([install-location]/applications/snl) is missing - - - 504887.974 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:44.689Z
+2026-10-10 13:35:43 UTC comment server WARN 200 - Application folder ([install-location]/applications/snl) is missing - - - 504887.974 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.151Z
+2026-10-10 13:35:44 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504888.644 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.190Z
+2026-10-10 13:35:44 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504888.644 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.902Z
+2026-10-10 13:35:45 UTC comment server WARN 200 - Application folder ([install-location]/applications/media) is missing - - - 504889.313 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.902Z
+2026-10-10 13:35:45 UTC comment server INFO 200 - MediaCasterStreamValidator.init[live/_definst_]: Started - - - 504890.045 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.902Z
+2026-10-10 13:35:45 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: AllowedEncoders: securityPublishValidEncoders:Wirecast/|FME/|FMLE/|Wowza GoCoder*|Lavf/|UA Teradek/|KulaByte/|HaivisionKB/|VidBlaster/|XSplit/|PESA|makitoX/|Elemental Live* - - - 504890.057 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.902Z
+2026-10-10 13:35:45 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: block duplicate stream names : false - - - 504890.058 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.902Z
+2026-10-10 13:35:45 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: RTMP Authorization: password file:/usr/local/WowzaStreamingEngine/conf/publish.password - - - 504890.058 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.902Z
+2026-10-10 13:35:45 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Play: SecureConnection: securityPlayRequireSecureConnection:false - - - 504890.058 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.902Z
+2026-10-10 13:35:45 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Play: securitySecureTokenVersion property is missing, using SecureToken Version 1, play security enabled for RTMP only - - - 504890.058 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.902Z
+2026-10-10 13:35:45 UTC app-start application INFO 200 _definst_ live/_definst_ _defaultVHost_ live _definst_ 504890.07 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.902Z
+2026-10-10 13:35:45 UTC connect rtsp INFO 200 505983005 - _defaultVHost_ live _definst_ 504890.072 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 66.132.198.15 rtsp - LibVLC/3.0.20 505983005 0 0 - - - - - - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-10T13:35:45.902Z
+2026-10-10 13:35:45 UTC create stream INFO 200 - RTPStream _defaultVHost_ live _definst_ 0.001 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 66.132.198.15 rtsp - LibVLC/3.0.20 505983005 0 0 1 0 0 0 ch00_0 - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-10T13:35:45.902Z
+2026-10-10 13:35:45 UTC unpublish stream INFO 200 - - _defaultVHost_ live _definst_ 0.001 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 66.132.198.15 rtsp - LibVLC/3.0.20 505983005 0 0 1 0 0 0 ch00_0 - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-10T13:35:45.902Z
+2026-10-10 13:35:45 UTC destroy stream INFO 200 - - _defaultVHost_ live _definst_ 0.002 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 66.132.198.15 rtsp - LibVLC/3.0.20 505983005 0 0 1 0 0 0 ch00_0 - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-10T13:35:45.941Z
+2026-10-10 13:35:45 UTC comment server WARN 200 - Application folder ([install-location]/applications/media) is missing - - - 504889.313 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.941Z
+2026-10-10 13:35:45 UTC comment server INFO 200 - MediaCasterStreamValidator.init[live/_definst_]: Started - - - 504890.045 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.941Z
+2026-10-10 13:35:45 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: AllowedEncoders: securityPublishValidEncoders:Wirecast/|FME/|FMLE/|Wowza GoCoder*|Lavf/|UA Teradek/|KulaByte/|HaivisionKB/|VidBlaster/|XSplit/|PESA|makitoX/|Elemental Live* - - - 504890.057 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.941Z
+2026-10-10 13:35:45 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: block duplicate stream names : false - - - 504890.058 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.941Z
+2026-10-10 13:35:45 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Publish: RTMP Authorization: password file:/usr/local/WowzaStreamingEngine/conf/publish.password - - - 504890.058 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.941Z
+2026-10-10 13:35:45 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Play: SecureConnection: securityPlayRequireSecureConnection:false - - - 504890.058 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.941Z
+2026-10-10 13:35:45 UTC comment server INFO 200 - ModuleCoreSecurity.onAppStart[live/_definst_]: Play: securitySecureTokenVersion property is missing, using SecureToken Version 1, play security enabled for RTMP only - - - 504890.058 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.941Z
+2026-10-10 13:35:45 UTC app-start application INFO 200 _definst_ live/_definst_ _defaultVHost_ live _definst_ 504890.07 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:45.941Z
+2026-10-10 13:35:45 UTC connect rtsp INFO 200 505983005 - _defaultVHost_ live _definst_ 504890.072 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 66.132.198.15 rtsp - LibVLC/3.0.20 505983005 0 0 - - - - - - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-10T13:35:45.941Z
+2026-10-10 13:35:45 UTC create stream INFO 200 - RTPStream _defaultVHost_ live _definst_ 0.001 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 66.132.198.15 rtsp - LibVLC/3.0.20 505983005 0 0 1 0 0 0 ch00_0 - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-10T13:35:45.941Z
+2026-10-10 13:35:45 UTC unpublish stream INFO 200 - - _defaultVHost_ live _definst_ 0.001 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 66.132.198.15 rtsp - LibVLC/3.0.20 505983005 0 0 1 0 0 0 ch00_0 - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-10T13:35:45.941Z
+2026-10-10 13:35:45 UTC destroy stream INFO 200 - - _defaultVHost_ live _definst_ 0.002 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 66.132.198.15 rtsp - LibVLC/3.0.20 505983005 0 0 1 0 0 0 ch00_0 - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-10T13:35:46.653Z
+2026-10-10 13:35:45 UTC disconnect rtsp INFO 200 505983005 - _defaultVHost_ live _definst_ 504890.076 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 66.132.198.15 rtsp - LibVLC/3.0.20 505983005 0 0 - - - - - - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-10T13:35:46.693Z
+2026-10-10 13:35:45 UTC disconnect rtsp INFO 200 505983005 - _defaultVHost_ live _definst_ 504890.076 52.11.134.134 554 rtsp://52.11.134.134:554/live/ch00_0 66.132.198.15 rtsp - LibVLC/3.0.20 505983005 0 0 - - - - - - - - - - rtsp://52.11.134.134:554/live/ch00_0 rtsp://52.11.134.134:554/live/ch00_0 - rtsp://52.11.134.134:554/live/ch00_0 -
+2026-10-10T13:35:47.405Z
+2026-10-10 13:35:46 UTC comment server WARN 200 - Application folder ([install-location]/applications/axis-media) is missing - - - 504890.742 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:47.446Z
+2026-10-10 13:35:46 UTC comment server WARN 200 - Application folder ([install-location]/applications/axis-media) is missing - - - 504890.742 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:47.907Z
+2026-10-10 13:35:47 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504891.409 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:47.946Z
+2026-10-10 13:35:47 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504891.409 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:48.660Z
+2026-10-10 13:35:47 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504892.076 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:48.699Z
+2026-10-10 13:35:47 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504892.076 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:49.411Z
+2026-10-10 13:35:48 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504892.742 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:49.450Z
+2026-10-10 13:35:48 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504892.742 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:49.913Z
+2026-10-10 13:35:49 UTC comment server WARN 200 - Application folder ([install-location]/applications/Streaming) is missing - - - 504893.408 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:49.951Z
+2026-10-10 13:35:49 UTC comment server WARN 200 - Application folder ([install-location]/applications/Streaming) is missing - - - 504893.408 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:50.665Z
+2026-10-10 13:35:49 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504894.073 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:50.703Z
+2026-10-10 13:35:49 UTC comment server WARN 200 - Application folder ([install-location]/applications/_defapp_) is missing - - - 504894.073 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:55.592Z
+2026-10-10 13:35:50 UTC comment server WARN 200 - Application folder ([install-location]/applications/profile2) is missing - - - 504894.739 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:35:55.604Z
+2026-10-10 13:35:50 UTC comment server WARN 200 - Application folder ([install-location]/applications/profile2) is missing - - - 504894.739 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:36:50.591Z
+2026-10-10 13:36:45 UTC app-stop application INFO 200 _definst_ live/_definst_ _defaultVHost_ live _definst_ 504950.152 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T13:36:50.604Z
+2026-10-10 13:36:45 UTC app-stop application INFO 200 _definst_ live/_definst_ _defaultVHost_ live _definst_ 504950.152 - - - - - - - - - - - - - - - - - - - - - - - - -
+2026-10-10T17:14:40.591Z
+2026-10-10 17:14:35 UTC disconnect session INFO 200 849585299 - _defaultVHost_ - - 0.015 [any] 554 - 127.0.0.1 rtmp - unknown 849585299 25 0 - - - - - - - - - - - - - - -
+2026-10-10T17:14:40.604Z
+2026-10-10 17:14:35 UTC disconnect session INFO 200 849585299 - _defaultVHost_ - - 0.015 [any] 554 - 127.0.0.1 rtmp - unknown 849585299 25 0 - - - - - - - - - - - - - - -
+No newer events at this moment. 
+Auto retry paused.
+ 
+Resume
+ 

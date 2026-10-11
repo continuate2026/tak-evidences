@@ -1,0 +1,25 @@
+CloudWatch
+Log management
+/doi-tak/dev/postgresql/database
+i-0c3cca00584ac51f9/ip-10-0-20-247.us-west-2.compute.internal
+
+
+Timestamp
+	
+Message
+
+No older events at this moment. 
+Retry
+2026-10-04T04:43:05.807Z
+2026-10-04 00:43:04.294 EDT [1009] LOG: checkpoint starting: time
+2026-10-04T04:43:10.333Z
+2026-10-04 00:43:05.714 EDT [1009] LOG: checkpoint complete: wrote 15 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=1.410 s, sync=0.004 s, total=1.421 s; sync files=15, longest=0.003 s, average=0.001 s; distance=84 kB, estimate=84 kB
+2026-10-04T16:48:18.762Z
+2026-10-04 12:48:17.133 EDT [1009] LOG: checkpoint starting: time
+2026-10-04T16:48:23.333Z
+2026-10-04 12:48:18.552 EDT [1009] LOG: checkpoint complete: wrote 15 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=1.410 s, sync=0.003 s, total=1.420 s; sync files=15, longest=0.002 s, average=0.001 s; distance=84 kB, estimate=84 kB
+No newer events at this moment. 
+Auto retry paused.
+ 
+Resume
+ 

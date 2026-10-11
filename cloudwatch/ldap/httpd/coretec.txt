@@ -1,0 +1,85 @@
+CloudWatch
+Log management
+/doi-tak/dev/ldap/httpd
+error/i-0d6a53520d65444c3/ip-10-0-21-72.us-west-2.compute.internal
+
+	
+No older events at this moment. 
+Retry
+2026-10-03T15:17:14.287Z
+[Sun Sep 27 00:00:00.858686 2026] [lbmethod_heartbeat:notice] [pid 810:tid 810] AH02282: No slotmem from mod_heartmonitor
+2026-10-03T15:17:14.287Z
+[Sun Sep 27 00:00:00.861027 2026] [mpm_event:notice] [pid 810:tid 810] AH00489: Apache/2.4.62 (Rocky Linux) OpenSSL/3.5.8 configured -- resuming normal operations
+2026-10-03T15:17:14.287Z
+[Sun Sep 27 00:00:00.861056 2026] [core:notice] [pid 810:tid 810] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+2026-10-03T15:17:14.287Z
+[Sun Sep 27 22:47:33.016773 2026] [mpm_event:notice] [pid 810:tid 810] AH00492: caught SIGWINCH, shutting down gracefully
+2026-10-03T15:17:14.287Z
+[Sun Sep 27 22:47:53.401171 2026] [core:notice] [pid 809:tid 809] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+2026-10-03T15:17:14.287Z
+[Sun Sep 27 22:47:53.404728 2026] [suexec:notice] [pid 809:tid 809] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+2026-10-03T15:17:14.287Z
+[Sun Sep 27 22:47:53.447598 2026] [lbmethod_heartbeat:notice] [pid 809:tid 809] AH02282: No slotmem from mod_heartmonitor
+2026-10-03T15:17:14.287Z
+[Sun Sep 27 22:47:53.460495 2026] [mpm_event:notice] [pid 809:tid 809] AH00489: Apache/2.4.62 (Rocky Linux) OpenSSL/3.5.8 configured -- resuming normal operations
+2026-10-03T15:17:14.287Z
+[Sun Sep 27 22:47:53.460533 2026] [core:notice] [pid 809:tid 809] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+2026-10-03T15:17:14.287Z
+[Mon Sep 28 12:38:17.141663 2026] [mpm_event:notice] [pid 809:tid 809] AH00492: caught SIGWINCH, shutting down gracefully
+2026-10-03T15:17:14.287Z
+[Mon Sep 28 12:38:50.531574 2026] [core:notice] [pid 813:tid 813] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+2026-10-03T15:17:14.287Z
+[Mon Sep 28 12:38:50.535313 2026] [suexec:notice] [pid 813:tid 813] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+2026-10-03T15:17:14.287Z
+[Mon Sep 28 12:38:50.587591 2026] [lbmethod_heartbeat:notice] [pid 813:tid 813] AH02282: No slotmem from mod_heartmonitor
+2026-10-03T15:17:14.287Z
+[Mon Sep 28 12:38:50.592239 2026] [mpm_event:notice] [pid 813:tid 813] AH00489: Apache/2.4.62 (Rocky Linux) OpenSSL/3.5.8 configured -- resuming normal operations
+2026-10-03T15:17:14.287Z
+[Mon Sep 28 12:38:50.592297 2026] [core:notice] [pid 813:tid 813] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+2026-10-03T15:17:14.287Z
+[Wed Sep 30 16:51:55.025234 2026] [mpm_event:notice] [pid 813:tid 813] AH00492: caught SIGWINCH, shutting down gracefully
+2026-10-03T15:17:14.287Z
+[Wed Sep 30 16:52:20.488963 2026] [core:notice] [pid 809:tid 809] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+2026-10-03T15:17:14.287Z
+[Wed Sep 30 16:52:20.492788 2026] [suexec:notice] [pid 809:tid 809] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+2026-10-03T15:17:14.287Z
+[Wed Sep 30 16:52:20.573116 2026] [lbmethod_heartbeat:notice] [pid 809:tid 809] AH02282: No slotmem from mod_heartmonitor
+2026-10-03T15:17:14.287Z
+[Wed Sep 30 16:52:20.598111 2026] [mpm_event:notice] [pid 809:tid 809] AH00489: Apache/2.4.62 (Rocky Linux) OpenSSL/3.5.8 configured -- resuming normal operations
+2026-10-03T15:17:19.545Z
+[Wed Sep 30 16:52:20.598163 2026] [core:notice] [pid 809:tid 809] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+2026-10-04T00:00:04.523Z
+[Sun Oct 04 00:00:04.482666 2026] [lbmethod_heartbeat:notice] [pid 809:tid 809] AH02282: No slotmem from mod_heartmonitor
+2026-10-04T00:00:04.523Z
+[Sun Oct 04 00:00:04.489245 2026] [mpm_event:notice] [pid 809:tid 809] AH00489: Apache/2.4.62 (Rocky Linux) OpenSSL/3.5.8 configured -- resuming normal operations
+2026-10-04T00:00:09.296Z
+[Sun Oct 04 00:00:04.489277 2026] [core:notice] [pid 809:tid 809] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+2026-10-04T04:20:12.429Z
+[Sun Oct 04 04:19:46.186803 2026] [mpm_event:notice] [pid 809:tid 809] AH00492: caught SIGWINCH, shutting down gracefully
+2026-10-04T04:20:12.429Z
+[Sun Oct 04 04:20:10.432147 2026] [core:notice] [pid 820:tid 820] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+2026-10-04T04:20:12.429Z
+[Sun Oct 04 04:20:10.435891 2026] [suexec:notice] [pid 820:tid 820] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+2026-10-04T04:20:12.429Z
+[Sun Oct 04 04:20:10.517531 2026] [lbmethod_heartbeat:notice] [pid 820:tid 820] AH02282: No slotmem from mod_heartmonitor
+2026-10-04T04:20:12.429Z
+[Sun Oct 04 04:20:10.542629 2026] [mpm_event:notice] [pid 820:tid 820] AH00489: Apache/2.4.62 (Rocky Linux) OpenSSL/3.5.8 configured -- resuming normal operations
+2026-10-04T04:20:17.563Z
+[Sun Oct 04 04:20:10.542672 2026] [core:notice] [pid 820:tid 820] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+2026-10-04T17:02:23.570Z
+[Sun Oct 04 17:02:00.455528 2026] [mpm_event:notice] [pid 820:tid 820] AH00492: caught SIGWINCH, shutting down gracefully
+2026-10-04T17:02:23.570Z
+[Sun Oct 04 17:02:21.398389 2026] [core:notice] [pid 817:tid 817] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+2026-10-04T17:02:23.570Z
+[Sun Oct 04 17:02:21.402615 2026] [suexec:notice] [pid 817:tid 817] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+2026-10-04T17:02:23.570Z
+[Sun Oct 04 17:02:21.493871 2026] [lbmethod_heartbeat:notice] [pid 817:tid 817] AH02282: No slotmem from mod_heartmonitor
+2026-10-04T17:02:23.570Z
+[Sun Oct 04 17:02:21.520500 2026] [mpm_event:notice] [pid 817:tid 817] AH00489: Apache/2.4.62 (Rocky Linux) OpenSSL/3.5.8 configured -- resuming normal operations
+2026-10-04T17:02:28.696Z
+[Sun Oct 04 17:02:21.520537 2026] [core:notice] [pid 817:tid 817] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+No newer events at this moment. 
+Auto retry paused.
+ 
+Resume
+ 
