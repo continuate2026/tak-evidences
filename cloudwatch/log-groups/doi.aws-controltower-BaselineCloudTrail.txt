@@ -1,0 +1,97 @@
+Skip to Main Content
+
+Search
+[Alt+S]
+
+
+
+United States (US-Gov-West)
+
+Account ID: 7134-1673-9799
+AWSAdministratorAccess/apaduthonse+org-admin@coretecusa.com
+
+CloudTrail
+Trails
+arn:aws-us-gov:cloudtrail:us-gov-west-1:713416739799:trail/aws-controltower-BaselineCloudTrail
+CloudTrail
+Trails
+arn:aws-us-gov:cloudtrail:us-gov-west-1:713416739799:trail/aws-controltower-BaselineCloudTrail
+
+
+CloudTrail
+Dashboard
+Event history
+Insights
+Trails
+
+Lake
+Dashboards
+Query
+Event data stores
+Settings
+Pricing
+Documentation
+Forums
+FAQs
+Dashboard | CloudTrail | us-gov-west-1
+aws-controltower-BaselineCloudTrail
+Delete
+Stop logging
+General details
+Edit
+Trail logging
+Logging
+Trail name
+aws-controltower-BaselineCloudTrail
+Multi-region trail
+Yes
+Apply trail to my organization
+Enabled for all accounts
+Trail log location
+aws-controltower-cloudtrail-logs-714206696778-i9s-ktk/o-26j21z4owa/AWSLogs/o-26j21z4owa/713416739799 
+Last log file delivered
+October 12, 2026, 18:23:11 (UTC-04:00)
+Log file SSE-KMS encryption
+Not enabled
+Log file validation
+Enabled
+Last file validation delivered
+October 12, 2026, 17:30:47 (UTC-04:00)
+SNS notification delivery
+arn:aws-us-gov:sns:us-gov-west-1:714206696778:aws-controltower-CentralizedLoggingNotifications
+Last SNS notification
+October 12, 2026, 18:23:11 (UTC-04:00)
+CloudWatch Logs
+Edit
+Log group
+aws-controltower/CloudTrailLogs-i9s-ktk
+IAM Role
+arn:aws-us-gov:iam::713416739799:role/service-role/AWSControlTowerCloudTrailRole
+Tags
+Manage tags
+Key
+Value
+No tags
+No tags associated with this trail
+
+Management events
+Edit
+API activity
+All
+Exclude AWS KMS events
+No
+Exclude Amazon RDS Data API events
+No
+Data events
+Edit
+Data event collection is not configured for this trail
+
+Insights events
+Edit
+Insights events are not configured for this trail
+
+Feedback
+Language
+© 2026, Amazon Web Services, Inc. or its affiliates.
+Privacy
+Terms

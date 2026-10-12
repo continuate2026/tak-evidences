@@ -1,0 +1,277 @@
+Log groups (20)
+
+Filters
+Actions
+View in Logs Insights
+Create log group
+By default, we only load up to 10,000 log groups.
+
+
+1
+
+
+Exact match
+Log group
+	
+Log class
+	
+Deletion protection
+	
+Data protection
+	
+Sensitive data count
+	
+Account label
+	
+Account ID
+	
+Retention
+	
+Metric filters
+	
+Contributor Insights
+	
+Subscription filters
+
+Log group
+	
+Log class
+	
+Deletion protection
+	
+Data protection
+	
+Sensitive data count
+	
+Account label
+	
+Account ID
+	
+Retention
+	
+Metric filters
+	
+Contributor Insights
+	
+Subscription filters
+
+/aws/guardduty/malware-scan-events
+Standard
+Off
+-
+-
+Monitoring account
+714208397604
+3 months
+-
+-
+-
+/aws/lambda/aws-controltower-NotificationForwarder
+Standard
+Off
+-
+-
+Monitoring account
+714208397604
+2 weeks
+-
+-
+-
+aws-controltower/CloudTrailLogs-i9s-ktk
+Standard
+Off
+-
+-
+coretecinterior
+713416739799
+2 weeks
+1 filter
+-
+-
+/aws/lambda/aws-controltower-NotificationForwarder
+Standard
+Off
+-
+-
+gov-log-archive
+714206696778
+2 weeks
+-
+-
+-
+/aws/lambda/aws-controltower-NotificationForwarder
+Standard
+Off
+-
+-
+gov-tak-stage
+714866454664
+2 weeks
+-
+-
+-
+/aws/lambda/aws-controltower-NotificationForwarder
+Standard
+Off
+-
+-
+gov-tak-testing
+714889084697
+2 weeks
+-
+-
+-
+/aws/ssm/session-manager/doi-tak
+Standard
+Off
+-
+-
+gov-tak-testing
+714889084697
+3 months
+-
+-
+-
+/aws/guardduty/malware-scan-events
+Standard
+Off
+-
+-
+gov-tak-prod
+714891167896
+3 months
+-
+-
+-
+/aws/lambda/aws-controltower-NotificationForwarder
+Standard
+Off
+-
+-
+gov-tak-prod
+714891167896
+2 weeks
+-
+-
+-
+/aws/ssm/session-manager/doi-tak
+Standard
+Off
+-
+-
+gov-tak-prod
+714891167896
+6 months
+-
+-
+-
+/aws/vendedlogs/doi-tak/prod/alb
+Standard
+Off
+-
+-
+gov-tak-prod
+714891167896
+12 months
+1 filter
+-
+-
+/doi-tak/prod/fedhub/application
+Standard
+Off
+-
+-
+gov-tak-prod
+714891167896
+12 months
+-
+-
+-
+/doi-tak/prod/fuel/application
+Standard
+Off
+-
+-
+gov-tak-prod
+714891167896
+12 months
+-
+-
+-
+/doi-tak/prod/keycloak/application
+Standard
+Off
+-
+-
+gov-tak-prod
+714891167896
+12 months
+-
+-
+-
+/doi-tak/prod/ldap/httpd
+Standard
+Off
+-
+-
+gov-tak-prod
+714891167896
+12 months
+-
+-
+-
+/doi-tak/prod/ldap/slapd
+Standard
+Off
+-
+-
+gov-tak-prod
+714891167896
+12 months
+-
+-
+-
+/doi-tak/prod/postgresql/database
+Standard
+Off
+-
+-
+gov-tak-prod
+714891167896
+12 months
+-
+-
+-
+/doi-tak/prod/tak-server/application
+Standard
+Off
+-
+-
+gov-tak-prod
+714891167896
+12 months
+-
+-
+-
+/doi-tak/prod/wowza/application
+Standard
+Off
+-
+-
+gov-tak-prod
+714891167896
+12 months
+-
+-
+-
+/aws/lambda/aws-controltower-NotificationForwarder
+Standard
+Off
+-
+-
+gov-tak-dr
+714894269085
+2 weeks
+-
+-
+-

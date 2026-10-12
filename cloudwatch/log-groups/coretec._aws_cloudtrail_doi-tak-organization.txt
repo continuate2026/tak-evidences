@@ -1,0 +1,193 @@
+/aws/cloudtrail/doi-tak-organization
+Actions
+View in Logs Insights
+Start tailing
+Search log group
+Log group details
+Log class
+Info
+Standard
+ARN
+arn:aws:logs:us-west-2:608983206036:log-group:/aws/cloudtrail/doi-tak-organization:*
+Creation time
+3 months ago
+Retention
+Never expire
+Stored bytes
+1.79 GB
+Metric filters
+0
+Subscription filters
+0
+Contributor Insights rules
+-
+KMS key ID
+-
+Deletion protection
+Off
+Data protection
+-
+Sensitive data count
+-
+Custom field indexes
+Configure
+Transformer
+Configure
+Anomaly detection
+Configure
+Bearer token authentication
+Off
+Syslog ingestion
+Info
+Configure
+
+Log streams
+
+Tags
+
+Data protection
+
+Anomaly detection
+
+Metric filters
+
+Subscription filters
+
+Contributor Insights
+
+Field indexes
+
+Transformer
+Log streams (56)
+
+Delete
+Create log stream
+Search all log streams
+By default, we only load the most recent log streams.
+
+
+1
+
+
+Exact match
+Show expired
+Log stream
+	
+Last event time
+
+Log stream
+	
+Last event time
+
+o-pt56ulfyw7_720459752501_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 22:59:06 (UTC)
+o-pt56ulfyw7_943900884946_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 22:58:48 (UTC)
+o-pt56ulfyw7_825834484973_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 22:58:37 (UTC)
+o-pt56ulfyw7_879385476419_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 22:58:20 (UTC)
+o-pt56ulfyw7_825834484973_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 22:58:13 (UTC)
+o-pt56ulfyw7_825834484973_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 22:58:09 (UTC)
+o-pt56ulfyw7_825834484973_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 22:58:05 (UTC)
+o-pt56ulfyw7_608983206036_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 22:57:59 (UTC)
+o-pt56ulfyw7_943900884946_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 22:57:57 (UTC)
+o-pt56ulfyw7_608983206036_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 22:57:14 (UTC)
+o-pt56ulfyw7_145554225705_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 22:56:56 (UTC)
+o-pt56ulfyw7_145554225705_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 22:56:51 (UTC)
+o-pt56ulfyw7_879385476419_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 22:56:00 (UTC)
+o-pt56ulfyw7_943900884946_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 22:55:58 (UTC)
+o-pt56ulfyw7_720459752501_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 22:55:49 (UTC)
+o-pt56ulfyw7_608983206036_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 22:55:39 (UTC)
+o-pt56ulfyw7_943900884946_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 22:54:57 (UTC)
+o-pt56ulfyw7_917220116924_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 22:53:53 (UTC)
+o-pt56ulfyw7_879385476419_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 22:53:40 (UTC)
+o-pt56ulfyw7_608983206036_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 22:53:31 (UTC)
+o-pt56ulfyw7_917220116924_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 22:53:24 (UTC)
+o-pt56ulfyw7_720459752501_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 22:52:38 (UTC)
+o-pt56ulfyw7_720459752501_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 22:49:57 (UTC)
+o-pt56ulfyw7_917220116924_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 22:47:13 (UTC)
+o-pt56ulfyw7_879385476419_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 22:43:24 (UTC)
+o-pt56ulfyw7_145554225705_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 22:41:55 (UTC)
+o-pt56ulfyw7_917220116924_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 22:40:13 (UTC)
+o-pt56ulfyw7_145554225705_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 22:38:15 (UTC)
+o-pt56ulfyw7_686090305710_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 22:36:28 (UTC)
+o-pt56ulfyw7_686090305710_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 22:36:28 (UTC)
+o-pt56ulfyw7_928282275187_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 22:34:52 (UTC)
+o-pt56ulfyw7_025230643966_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 22:34:52 (UTC)
+o-pt56ulfyw7_087521562886_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 22:34:50 (UTC)
+o-pt56ulfyw7_025230643966_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 22:34:48 (UTC)
+o-pt56ulfyw7_928282275187_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 22:34:47 (UTC)
+o-pt56ulfyw7_087521562886_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 22:34:42 (UTC)
+o-pt56ulfyw7_308639168732_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 22:34:17 (UTC)
+o-pt56ulfyw7_308639168732_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 22:34:17 (UTC)
+o-pt56ulfyw7_308639168732_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 22:34:14 (UTC)
+o-pt56ulfyw7_308639168732_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 22:34:14 (UTC)
+o-pt56ulfyw7_025230643966_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 22:34:04 (UTC)
+o-pt56ulfyw7_087521562886_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 22:33:59 (UTC)
+o-pt56ulfyw7_928282275187_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 22:33:48 (UTC)
+o-pt56ulfyw7_087521562886_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 22:33:41 (UTC)
+o-pt56ulfyw7_928282275187_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 22:30:49 (UTC)
+o-pt56ulfyw7_025230643966_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 22:28:43 (UTC)
+o-pt56ulfyw7_429502077163_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 22:25:30 (UTC)
+o-pt56ulfyw7_429502077163_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 22:25:24 (UTC)
+o-pt56ulfyw7_429502077163_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 22:25:22 (UTC)
+o-pt56ulfyw7_429502077163_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 22:25:20 (UTC)
+o-pt56ulfyw7_686090305710_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 22:12:26 (UTC)
+o-pt56ulfyw7_686090305710_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 22:12:25 (UTC)
+o-pt56ulfyw7_271906496099_CloudTrail_us-west-2_3-825834484973-us-west-2
+2026-08-02 17:14:31 (UTC)
+o-pt56ulfyw7_271906496099_CloudTrail_us-west-2_4-825834484973-us-west-2
+2026-08-02 17:11:41 (UTC)
+o-pt56ulfyw7_271906496099_CloudTrail_us-west-2-825834484973-us-west-2
+2026-08-02 17:07:30 (UTC)
+o-pt56ulfyw7_271906496099_CloudTrail_us-west-2_2-825834484973-us-west-2
+2026-08-02 16:55:40 (UTC)

@@ -1,0 +1,479 @@
+Log groups (32)
+
+Filters
+Actions
+View in Logs Insights
+Start tailing
+Create log group
+By default, we only load up to 10,000 log groups.
+
+
+1
+
+
+Exact match
+Log group
+	
+Log class
+	
+Anomaly detection
+	
+Deletion protection
+	
+Bearer token authentication
+	
+Data protection
+	
+Sensitive data count
+	
+Account label
+	
+Account ID
+	
+Retention
+	
+Metric filters
+	
+Contributor Insights
+	
+Subscription filters
+
+Log group
+	
+Log class
+	
+Anomaly detection
+	
+Deletion protection
+	
+Bearer token authentication
+	
+Data protection
+	
+Sensitive data count
+	
+Account label
+	
+Account ID
+	
+Retention
+	
+Metric filters
+	
+Contributor Insights
+	
+Subscription filters
+
+/aws/cloudtrail/doi-tak-organization
+Standard
+Configure
+Off
+Off
+-
+-
+Monitoring account
+608983206036
+Never expire
+-
+-
+-
+/aws/lambda/aws-controltower-NotificationForwarder
+Standard
+Configure
+Off
+Off
+-
+-
+Monitoring account
+608983206036
+2 weeks
+-
+-
+-
+/centralized/825834484973/us-west-2/aws/cloudtrail/doi-tak-organization
+Standard
+Configure
+Off
+Off
+-
+-
+Monitoring account
+608983206036
+Never expire
+8 filters
+-
+-
+/aws/lambda/aws-controltower-NotificationForwarder
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Testing
+145554225705
+2 weeks
+-
+-
+-
+/aws/lambda/delete-name-tags-us-west-2-92fe-pinas
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Testing
+145554225705
+Never expire
+-
+-
+-
+/aws/lambda/delete-name-tags-us-west-2-a11a-ctxhr
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Testing
+145554225705
+Never expire
+-
+-
+-
+/aws/ssm/session-manager/doi-tak
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Testing
+145554225705
+3 months
+-
+-
+-
+/aws/lambda/aws-controltower-NotificationForwarder
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Central-Logs-Account
+720459752501
+2 weeks
+-
+-
+-
+/aws/lambda/baseline-overrides-8858-ctxhr
+Standard
+Not supported
+Off
+Off
+-
+-
+coretecinterior
+825834484973
+Never expire
+-
+-
+-
+/aws/lambda/baseline-overrides-aba7-pinas
+Standard
+Not supported
+Off
+Off
+-
+-
+coretecinterior
+825834484973
+Never expire
+-
+-
+-
+aws-cloudtrail-logs-825834484973-0130472b
+Standard
+Not supported
+Off
+Off
+-
+-
+coretecinterior
+825834484973
+Never expire
+-
+-
+-
+aws-controltower/CloudTrailLogs-eks-gpd
+Standard
+Not supported
+Off
+Off
+-
+-
+coretecinterior
+825834484973
+2 weeks
+1 filter
+-
+-
+/aws/lambda/aws-controltower-NotificationForwarder
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+2 weeks
+-
+-
+-
+/aws/lambda/delete-name-tags-us-west-2-8b21-ctxhr
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+Never expire
+-
+-
+-
+/aws/lambda/delete-name-tags-us-west-2-94d9-pinas
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+Never expire
+-
+-
+-
+/aws/ssm/session-manager/doi-tak
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+6 months
+-
+-
+-
+/aws/vendedlogs/doi-tak/dev/alb
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+12 months
+1 filter
+-
+-
+/doi-tak/dev/fedhub/application
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+6 months
+-
+-
+-
+/doi-tak/dev/fuel/application
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+6 months
+-
+-
+-
+/doi-tak/dev/keycloak/application
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+6 months
+-
+-
+-
+/doi-tak/dev/ldap/httpd
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+6 months
+-
+-
+-
+/doi-tak/dev/ldap/slapd
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+6 months
+-
+-
+-
+/doi-tak/dev/postgresql/database
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+6 months
+-
+-
+-
+/doi-tak/dev/tak-server/application
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+6 months
+-
+-
+-
+/doi-tak/dev/workspaces-secure-browser/delivery
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+12 months
+-
+-
+-
+/doi-tak/dev/wowza/application
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Dev
+879385476419
+6 months
+-
+-
+-
+/aws/lambda/aws-controltower-NotificationForwarder
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Prod
+917220116924
+2 weeks
+-
+-
+-
+/aws/lambda/delete-name-tags-us-west-2-8292-ctxhr
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Prod
+917220116924
+Never expire
+-
+-
+-
+/aws/lambda/delete-name-tags-us-west-2-bf16-pinas
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Prod
+917220116924
+Never expire
+-
+-
+-
+/aws/lambda/aws-controltower-NotificationForwarder
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Central-Network
+943900884946
+2 weeks
+-
+-
+-
+/aws/lambda/delete-name-tags-us-west-2-94e9-ctxhr
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Central-Network
+943900884946
+Never expire
+-
+-
+-
+/aws/lambda/delete-name-tags-us-west-2-ae29-pinas
+Standard
+Not supported
+Off
+Off
+-
+-
+DOI-TAK-Central-Network
+943900884946
+Never expire

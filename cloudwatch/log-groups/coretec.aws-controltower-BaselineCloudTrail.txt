@@ -1,0 +1,118 @@
+
+Skip to Main Content
+
+
+Search
+[Alt+S]
+
+10
+
+
+
+United States (Oregon)
+
+coretecinterior (825834484973)
+AWSAdministratorAccess/doi@coretecusa.com
+
+CloudTrail
+Trails
+arn:aws:cloudtrail:us-west-2:825834484973:trail/aws-controltower-BaselineCloudTrail
+CloudTrail
+Trails
+arn:aws:cloudtrail:us-west-2:825834484973:trail/aws-controltower-BaselineCloudTrail
+
+
+CloudTrail
+Dashboard
+Data event coverage
+New
+Event history
+Insights
+Trails
+
+Lake
+Dashboards
+Query
+Event data stores
+Integrations
+Settings
+Pricing
+Documentation
+Forums
+FAQs
+CloudTrail | us-west-2
+aws-controltower-BaselineCloudTrail
+Delete
+Stop logging
+General details
+Edit
+Trail logging
+Logging
+Trail name
+aws-controltower-BaselineCloudTrail
+Multi-region trail
+Yes
+Apply trail to my organization
+Enabled for all accounts
+Trail log location
+aws-controltower-cloudtrail-logs-720459752501-eks-gpd/o-pt56ulfyw7/AWSLogs/o-pt56ulfyw7/825834484973 
+Last log file delivered
+October 12, 2026, 18:23:03 (UTC-04:00)
+Log file SSE-KMS encryption
+Not enabled
+Log file validation
+Enabled
+Last file validation delivered
+October 12, 2026, 18:14:52 (UTC-04:00)
+Recursive logging
+Enabled
+SNS notification delivery
+arn:aws:sns:us-west-2:720459752501:aws-controltower-CentralizedLoggingNotifications
+Last SNS notification
+October 12, 2026, 18:23:03 (UTC-04:00)
+CloudWatch Logs
+Edit
+Log group
+aws-controltower/CloudTrailLogs-eks-gpd
+IAM Role
+arn:aws:iam::825834484973:role/service-role/AWSControlTowerCloudTrailRole
+Tags
+Manage tags
+Key
+Value
+No tags
+No tags associated with this trail
+
+Aggregated events - New
+Edit
+No aggregated templates selected
+To use aggregated events, first enable data events in your trail.
+
+Management events
+Edit
+API activity
+All
+Exclude AWS KMS events
+No
+Exclude Amazon RDS Data API events
+No
+Data events
+Edit
+Data event collection is not configured for this trail
+
+Insights events
+Edit
+Insights events are not configured for this trail
+
+Network activity events
+Edit
+You’re currently using basic event selectors to log data events. To log network activity events, you must switch to advanced event selectors.
+
+
+CloudShell
+Agent Toolkit for AWS
+Feedback
+© 2026, Amazon Web Services, Inc. or its affiliates.
+Privacy
+Terms
+Cookie preferences

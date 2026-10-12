@@ -1,0 +1,127 @@
+Monitoring account
+aws-controltower/CloudTrailLogs-i9s-ktk
+Actions
+View in Logs Insights
+Search log group
+Log group details
+Log class
+Info
+Standard
+ARN
+arn:aws-us-gov:logs:us-gov-west-1:713416739799:log-group:aws-controltower/CloudTrailLogs-i9s-ktk:*
+Creation time
+2 months ago
+Retention
+2 weeks
+Stored bytes
+192.49 MB
+Account
+coretecinterior (713416739799)
+Metric filters
+1
+Subscription filters
+Not supported
+Contributor Insights rules
+Not supported
+KMS key ID
+-
+Deletion protection
+Off
+Data protection
+-
+Sensitive data count
+Not supported
+Custom field indexes
+Not supported
+
+Log streams
+
+Tags
+
+Data protection
+
+Metric filters
+
+Subscription filters
+
+Contributor Insights
+
+Field indexes
+Log streams (28)
+
+Delete
+Create log stream
+Search all log streams
+By default, we only load the most recent log streams.
+
+
+1
+
+
+Exact match
+Show expired
+Info
+Log stream
+	
+Last event time
+
+Log stream
+	
+Last event time
+
+o-26j21z4owa_714894269085_CloudTrail_us-gov-west-1
+2026-10-12 22:11:53 (UTC)
+o-26j21z4owa_713416739799_CloudTrail_us-gov-west-1_2
+2026-10-12 22:09:30 (UTC)
+o-26j21z4owa_714208397604_CloudTrail_us-gov-west-1_3
+2026-10-12 22:08:06 (UTC)
+o-26j21z4owa_714206696778_CloudTrail_us-gov-west-1_3
+2026-10-12 22:08:00 (UTC)
+o-26j21z4owa_714866454664_CloudTrail_us-gov-west-1_4
+2026-10-12 22:07:31 (UTC)
+o-26j21z4owa_714891167896_CloudTrail_us-gov-west-1_2
+2026-10-12 22:05:48 (UTC)
+o-26j21z4owa_714208397604_CloudTrail_us-gov-west-1
+2026-10-12 22:05:32 (UTC)
+o-26j21z4owa_713416739799_CloudTrail_us-gov-west-1_3
+2026-10-12 22:05:05 (UTC)
+o-26j21z4owa_714891167896_CloudTrail_us-gov-west-1_4
+2026-10-12 22:03:38 (UTC)
+o-26j21z4owa_713416739799_CloudTrail_us-gov-west-1
+2026-10-12 22:02:55 (UTC)
+o-26j21z4owa_714891167896_CloudTrail_us-gov-west-1_3
+2026-10-12 22:00:58 (UTC)
+o-26j21z4owa_714206696778_CloudTrail_us-gov-west-1_4
+2026-10-12 22:00:52 (UTC)
+o-26j21z4owa_714206696778_CloudTrail_us-gov-west-1_2
+2026-10-12 22:00:29 (UTC)
+o-26j21z4owa_714866454664_CloudTrail_us-gov-west-1_2
+2026-10-12 21:54:06 (UTC)
+o-26j21z4owa_713416739799_CloudTrail_us-gov-west-1_4
+2026-10-12 21:50:50 (UTC)
+o-26j21z4owa_714894269085_CloudTrail_us-gov-west-1_4
+2026-10-12 21:50:08 (UTC)
+o-26j21z4owa_714894269085_CloudTrail_us-gov-west-1_3
+2026-10-12 21:48:43 (UTC)
+o-26j21z4owa_714866454664_CloudTrail_us-gov-west-1
+2026-10-12 21:46:30 (UTC)
+o-26j21z4owa_714866454664_CloudTrail_us-gov-west-1_3
+2026-10-12 21:46:28 (UTC)
+o-26j21z4owa_714208397604_CloudTrail_us-gov-west-1_4
+2026-10-12 21:45:01 (UTC)
+o-26j21z4owa_714889084697_CloudTrail_us-gov-west-1_4
+2026-10-12 21:44:21 (UTC)
+o-26j21z4owa_714208397604_CloudTrail_us-gov-west-1_2
+2026-10-12 21:43:36 (UTC)
+o-26j21z4owa_714894269085_CloudTrail_us-gov-west-1_2
+2026-10-12 21:42:23 (UTC)
+o-26j21z4owa_714891167896_CloudTrail_us-gov-west-1
+2026-10-12 21:42:18 (UTC)
+o-26j21z4owa_714889084697_CloudTrail_us-gov-west-1_2
+2026-10-12 21:33:31 (UTC)
+o-26j21z4owa_714206696778_CloudTrail_us-gov-west-1
+2026-10-12 21:30:21 (UTC)
+o-26j21z4owa_714889084697_CloudTrail_us-gov-west-1
+2026-10-12 21:25:31 (UTC)
+o-26j21z4owa_714889084697_CloudTrail_us-gov-west-1_3
+2026-10-12 21:06:19 (UTC)
